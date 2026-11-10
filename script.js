@@ -2,7 +2,7 @@ console.log("SCRIPT LOADED");
 
 
 // Store your OpenWeatherMap API key.
-const apiKey = "3fcf81960fabea35c32798614c806a22";
+const apiKey = ""YOUR_API_KEY"";
 
 
 // Find the HTML element where we display the weather data.
